@@ -4,9 +4,7 @@
     "description": "Angular 2 Swiper component that wraps http://idangero.us/swiper",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
-    "scripts": {
-
-    },
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ksachdeva/angular2-swiper.git"
@@ -27,7 +25,7 @@
         "swiper",
         "component"
     ],
-    "author": "Kapil Sachdeva",
+    "author": "Kapil Sachdeva - Contributed by CuongTL1992",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/ksachdeva/angular2-swiper/issues"
