@@ -1,0 +1,62 @@
+{
+  "_from": "angular2-swiper@^0.8.1",
+  "_id": "angular2-swiper@0.8.1",
+  "_inBundle": false,
+  "_integrity": "sha1-zhySWCO/jzhibDbtS4izkcF3mmA=",
+  "_location": "/angular2-swiper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "angular2-swiper@^0.8.1",
+    "name": "angular2-swiper",
+    "escapedName": "angular2-swiper",
+    "rawSpec": "^0.8.1",
+    "saveSpec": null,
+    "fetchSpec": "^0.8.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-swiper/-/angular2-swiper-0.8.1.tgz",
+  "_shasum": "ce1c925823bf8f38626c36ed4b88b391c1779a60",
+  "_spec": "angular2-swiper@^0.8.1",
+  "_where": "F:\\Projects\\Kv_App_Fnb",
+  "author": {
+    "name": "Kapil Sachdeva"
+  },
+  "bugs": {
+    "url": "https://github.com/ksachdeva/angular2-swiper/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "swiper": "^3.3.1"
+  },
+  "deprecated": false,
+  "description": "Angular 2 Swiper component that wraps http://idangero.us/swiper",
+  "devDependencies": {
+    "@angular/common": "2.0.0",
+    "@angular/core": "2.0.0",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "5.0.0-beta.12",
+    "zone.js": "^0.6.23"
+  },
+  "homepage": "https://github.com/ksachdeva/angular2-swiper#readme",
+  "keywords": [
+    "angular2",
+    "swiper",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "angular2-swiper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksachdeva/angular2-swiper.git"
+  },
+  "scripts": {},
+  "typings": "dist/index.d.ts",
+  "version": "0.8.1"
+}
